@@ -1,9 +1,17 @@
 /*
+*       Gamified Minecraft Site Tutorial
+*       Written by: Seth Mattox
+*       Written on: 5/29/14
+*
 *       Variables
 *       localTutorials          =  JSON string unique to each page
 *       tutorialProgress      =  The 'xp' a user has gained by answering questions
 *       userScore               = Users lvl = level and xp = experience ( visualized as 'diamonds')
 *       
+*       Requires
+*       Three.js and model.js not written by me but included in this pack. 
+*       Php Database for leaderboard submissions. 
+*       JSON string on each page used here as Testing Only Data
 *
 */
 
